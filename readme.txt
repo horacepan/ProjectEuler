@@ -1,6 +1,4 @@
 Run these programs by entering "python program_name.py" in command terminal.
-These are some solutions to project euler problems as you've probably figured
- out from how they're named.
  
 A lot of the answers are not as optimal as they can or should be, but maybe 
 I'll get around to optimizing them one day.
